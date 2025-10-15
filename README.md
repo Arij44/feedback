@@ -17,7 +17,7 @@ It uses AI models, a FastAPI backend, and a React Native frontend (Expo) to prov
 
 <p align="center">
   <a href="frontend/assets/screens/">
-    ➕ View all screens
+    View all screens
   </a>
 </p>
 
