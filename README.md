@@ -1,17 +1,28 @@
 # Feedback — End of Study Project
 
-Feedback Analyzer is a local application that analyzes a single social media post at a time for **sentiment** and **topic modeling**.  
+Feedback Analyzer is a mobile application that analyzes a single social media post at a time for **sentiment** and **topic modeling**.  
 It uses AI models, a FastAPI backend, and a React Native frontend (Expo) to provide insights on user comments and posts.
 
 ---
 
-## Repository Structure
-├── ai/ # AI models, preprocessing scripts, and notebooks   
-├── backend/ # FastAPI services   
-├── frontend/ # React Native (Expo) mobile app   
+## App Screens
 
+<p align="center">
+  <img src="frontend/assets/screens/splash.png" alt="Splash" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/welcome.png" alt="Welcome" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/home.png" alt="Home" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/add_post.png" alt="Add Post" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/analysis.png" alt="Analysis" width="160" style="border-radius:10px; margin: 10px;"/>
+</p>
+
+<p align="center">
+  <a href="frontend/assets/screens/">
+    ➕ View all screens
+  </a>
+</p>
 
 ---
+
 
 ## Features
 
