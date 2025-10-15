@@ -8,10 +8,10 @@ It uses AI models, a FastAPI backend, and a React Native frontend (Expo) to prov
 ## App Screens
 
 <p align="center">
-  <img src="frontend/assets/screens/splash.png" alt="Splash" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/splach.png" alt="Splash" width="160" style="border-radius:10px; margin: 10px;"/>
   <img src="frontend/assets/screens/welcome.png" alt="Welcome" width="160" style="border-radius:10px; margin: 10px;"/>
   <img src="frontend/assets/screens/home.png" alt="Home" width="160" style="border-radius:10px; margin: 10px;"/>
-  <img src="frontend/assets/screens/add_post.png" alt="Add Post" width="160" style="border-radius:10px; margin: 10px;"/>
+  <img src="frontend/assets/screens/addpost.png" alt="Add Post" width="160" style="border-radius:10px; margin: 10px;"/>
   <img src="frontend/assets/screens/analysis.png" alt="Analysis" width="160" style="border-radius:10px; margin: 10px;"/>
 </p>
 
