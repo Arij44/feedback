@@ -56,7 +56,7 @@ npm install
 expo start
 ```
 
-##Usage
+## Usage
 
 1- Run the backend API   
 2- Open the frontend app in Expo    
